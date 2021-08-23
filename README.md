@@ -1,2 +1,2 @@
 
-Multiple regression model using SAS. It need SAS studio to compile.
+Multiple regression model using SAS. It needs SAS studio to compile.
